@@ -6,10 +6,10 @@ This repository contains reflections and summaries of key research papers on AI 
 
 ## 📚 Articles
 
-1. [Open Problems in Technical AI Governance](Open_Problems_in_Technical_AI_Governance.md)  
+1. [What_Makes_AI_Safe_ A_ Look_ Inside_Technical_Governance](What_Makes_AI_Safe_ A_ Look_ Inside_Technical_Governance.md)  
    Summary and discussion of challenges in implementing oversight tools, auditing pipelines, and infrastructure-level governance.
 
-2. [Can We Regulate AI Before It Regulates Us?](Can_We_Regulate_AI_Before_It_Regulates_Us.md)  
+2. [Can_We_Regulate_AI Before_It_Regulates_Us](Can_We_Regulate_AI_Before_It_Regulates_Us.md)  
    An exploration of emerging governance proposals and whether current institutions can effectively keep pace with frontier AI development.
 
 ---
