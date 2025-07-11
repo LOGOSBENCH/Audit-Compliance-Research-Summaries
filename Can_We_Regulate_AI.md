@@ -9,7 +9,7 @@ We hear about artificial intelligence (AI) everywhere now—helping doctors diag
 
 ---
 
-## 🧱 First Things First: How Are Countries Even Regulating AI?
+##  First Things First: How Are Countries Even Regulating AI?
 
 Governments have taken **three main approaches** when it comes to regulating AI. You can think of them as:
 
@@ -29,7 +29,7 @@ The third approach is much bigger: **omnibus laws** are designed to create a ful
 
 ---
 
-## 🔍 So What Do These Laws Actually Try to Do?
+## So What Do These Laws Actually Try to Do?
 
 Here’s where it gets interesting: beyond just making rules, many of these laws try to make AI systems more **transparent**. That means helping people understand:
 - **When AI is being used**
@@ -40,7 +40,7 @@ The study found **six common transparency tools** being used in these laws:
 
 ---
 
-## ✅ The Six Ways Lawmakers Are Asking for AI Transparency
+##  The Six Ways Lawmakers Are Asking for AI Transparency
 
 1. ** Human in the Loop**  
 A human must be able to **monitor or override** important AI decisions. For example, if an AI recommends denying someone healthcare, a person should double-check it before it becomes final.
