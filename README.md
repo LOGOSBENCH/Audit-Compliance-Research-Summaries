@@ -6,7 +6,7 @@ This repository contains reflections and summaries of key research papers on AI 
 
 ## 📚 Articles
 
- 1. [What Makes AI Safe? A Look Inside Technical Governance](./What Makes AI Safe A Look Inside Technical Governance.md
+ 1. [What Makes AI Safe? A Look Inside Technical Governance](./What Makes AI Safe.md
 )
    Summary and discussion of challenges in implementing oversight tools, auditing pipelines, and infrastructure-level governance.
 
