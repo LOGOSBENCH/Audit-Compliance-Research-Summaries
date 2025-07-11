@@ -9,11 +9,8 @@ This repository contains reflections and summaries of key research papers on AI 
  1. [What Makes AI Safe? A Look Inside Technical Governance](./What_Makes_AI_Safe.md)
    Summary and discussion of challenges in implementing oversight tools, auditing pipelines, and infrastructure-level governance.
 
-2. [Can We Regulate AI Before It Regulates Us](./Can_We_Regulate_AI_Before_It_Regulates_Us.md)  
+2. [Can We Regulate AI Before It Regulates Us](./Can_We_Regulate_AI.md)  
    An exploration of emerging governance proposals and whether current institutions can effectively keep pace with frontier AI development.
 
 ---
 
-## ✍️ Purpose
-
-The goal is to build a clearer understanding of how technical and policy tools can help guide responsible AI development. These summaries are written to be accessible while staying grounded in the original papers.
